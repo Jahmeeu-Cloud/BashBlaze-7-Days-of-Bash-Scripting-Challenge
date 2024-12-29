@@ -23,4 +23,5 @@ num3=$((num1 + num2))
 
 echo "Your result is: $num3"
 
-echo *.txt #*.txt is a wildcard that matches any string ending with .txt
+ ls *.txt 
+ #echo *.txt is a wildcard that matches any string ending with .txt
